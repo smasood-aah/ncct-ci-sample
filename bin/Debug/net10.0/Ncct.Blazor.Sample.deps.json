@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ncct.Blazor.Sample/1.0.0": {
+        "runtime": {
+          "Ncct.Blazor.Sample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ncct.Blazor.Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

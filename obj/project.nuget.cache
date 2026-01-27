@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4TakvUq8NzQ=",
+  "success": true,
+  "projectFilePath": "\\\\medctr.ad.wfubmc.edu\\dfs\\home2$\\smasood\\Documents\\Ncct.Blazor.Sample\\Ncct.Blazor.Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smasood\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.2\\microsoft.aspnetcore.app.internal.assets.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
