@@ -1,5 +1,7 @@
 ﻿/Ncct.Blazor.Sample.sln.DotSettings.user
 /ncct-ci-sample-tests/obj/
 /ncct-ci-sample-tests/bin/
+/ncct-ci-sample-shared/bin/
+/ncct-ci-sample-shared/obj/
 /ncct-ci-sample/bin/
 /ncct-ci-sample/obj/
