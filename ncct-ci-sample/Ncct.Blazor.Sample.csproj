@@ -11,4 +11,8 @@
     <Content Remove="global.json" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ncct-ci-sample-shared\Ncct.Blazor.Sample.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

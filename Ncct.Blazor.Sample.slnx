@@ -1,4 +1,7 @@
 <Solution>
-  <Project Path="ncct-ci-sample\Ncct.Blazor.Sample.csproj" />
+  <Project Path="ncct-ci-sample\Ncct.Blazor.Sample.csproj">
+    <BuildDependency Project="ncct-ci-sample-shared\Ncct.Blazor.Sample.Shared.csproj" />
+  </Project>
+  <Project Path="ncct-ci-sample-shared\Ncct.Blazor.Sample.Shared.csproj" />
   <Project Path="ncct-ci-sample-tests\Ncct.Blazor.Sample.Tests.csproj" />
 </Solution>
